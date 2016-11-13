@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473834611502",
+    "project_id": "socialintegr"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473834611502:android:4c2b16bbaf7abb2f",
+        "android_client_info": {
+          "package_name": "com.example.shahzaib.social_integr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473834611502-0h27aqd3rltvjo2sdcc47k97f0mo28nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shahzaib.social_integr",
+            "certificate_hash": "61317CE0DA37139FA5C90316CCCF3531C492E5F1"
+          }
+        },
+        {
+          "client_id": "473834611502-6bu299f6f0pqohal647d66a5viqi1pis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYIHaUdNQD68yHTstPmLW4gcEkack81k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
